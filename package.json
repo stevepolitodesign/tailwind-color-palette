@@ -4,6 +4,14 @@
   "description": "Utility classes for assigning background and text color based on the TailwindCSS color palette.",
   "main": "index.js",
   "license": "MIT",
+  "keywords": [
+    "Tailwind",
+    "TailwindCSS",
+    "utility classes",
+    "css",
+    "sass"
+  ],
+  "homepage": "https://github.com/stevepolitodesign/tailwind-color-palette",
   "scripts": {
     "sass": "node-sass -w scss/ -o css/"
   },

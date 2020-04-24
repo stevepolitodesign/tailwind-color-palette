@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "description": "Utility classes for assigning background and text color based on the TailwindCSS color palette.",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.14.0"
+  }
 }

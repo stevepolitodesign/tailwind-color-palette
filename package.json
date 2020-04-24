@@ -11,6 +11,9 @@
     "css",
     "sass"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "homepage": "https://github.com/stevepolitodesign/tailwind-color-palette",
   "scripts": {
     "sass": "node-sass -w scss/ -o css/"

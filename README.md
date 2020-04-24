@@ -40,7 +40,7 @@ Available `$tw_color_pallet_number` values:
 
 ### Example
 
-`<div class="tw-bg-gray-100 "></div>`;
+`<div class="tw-bg-gray-100 "></div>`
 
 ## Text Color Utility Class Structure
 
@@ -48,7 +48,7 @@ Available `$tw_color_pallet_number` values:
 
 ### Example
 
-`<p class="tw-text-gray-100">Hello World!</p>`;
+`<p class="tw-text-gray-100">Hello World!</p>`
 
 # Development
 

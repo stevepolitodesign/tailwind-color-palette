@@ -1,6 +1,6 @@
 {
   "name": "tailwind-color-palette",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "Utility classes for assigning background and text color based on the TailwindCSS color palette.",
   "main": "index.js",
   "license": "MIT",
